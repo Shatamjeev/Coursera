@@ -41,7 +41,7 @@ h2{
 	width: 100%;
 }
 
-#chicken-box > h3{
+h3{
 	text-align: center;
 } 
 @media (max-width: 768px) {
